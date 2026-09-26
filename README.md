@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ugochukwu Chukwuekem 👋
 
-<!--
-**Bluezo-tech/Bluezo-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer focused on building practical software and digital products.
 
-Here are some ideas to get you started:
+### What I Do
+- Build web applications and software projects
+- Work with modern web technologies
+- Explore new tools and technologies to improve my development skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Building and learning through real-world projects
+- Working on Bluezo Tech and its software projects
+
+Thanks for visiting my profile!
