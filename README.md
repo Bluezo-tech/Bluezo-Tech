@@ -1,34 +1,20 @@
 # Hi, I'm Ugochukwu Chukwuekem 👋
 
-I'm a web developer and student focused on learning, building, and improving practical software solutions.
+I'm a web developer and student.
 
-### 💻 What I Do
+### What I'm working on
 
-- Web development
-- Software development
-- Technical support
-- Learning full-stack development
+- Junior Web Developer - Independent Contractor at Somtico Technologies Inc.
+- Vendor Success & Technical Support Lead at Somtico Fashion Hub
+- Building web applications and improving my full-stack development skills
 
-### 🏢 Currently Working With
+### Technologies
 
-- **Somtico Technologies Inc.**
-- **Somtico Fashion Hub**
+JavaScript · TypeScript · React · Next.js · Node.js · HTML · CSS · Git · GitHub · Supabase
 
-### 🛠️ Technologies
+### Development
 
-- JavaScript
-- React
-- Next.js
-- Node.js
-- HTML
-- CSS
-- Git & GitHub
-
-### 📚 Currently Learning
-
-Full-stack web development, backend development, databases, and software engineering.
-
----
-
-📍 Nigeria  
-🔗 GitHub: **@bluezo-tech**
+- Front-end development
+- Back-end development
+- Databases
+- Software development workflows
