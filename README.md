@@ -1,14 +1,34 @@
 # Hi, I'm Ugochukwu Chukwuekem 👋
 
-I'm a web developer focused on building practical software and digital products.
+I'm a web developer and student focused on learning, building, and improving practical software solutions.
 
-### What I Do
-- Build web applications and software projects
-- Work with modern web technologies
-- Explore new tools and technologies to improve my development skills
+### 💻 What I Do
 
-### Currently
-- Building and learning through real-world projects
-- Working on Bluezo Tech and its software projects
+- Web development
+- Software development
+- Technical support
+- Learning full-stack development
 
-Thanks for visiting my profile!
+### 🏢 Currently Working With
+
+- **Somtico Technologies Inc.**
+- **Somtico Fashion Hub**
+
+### 🛠️ Technologies
+
+- JavaScript
+- React
+- Next.js
+- Node.js
+- HTML
+- CSS
+- Git & GitHub
+
+### 📚 Currently Learning
+
+Full-stack web development, backend development, databases, and software engineering.
+
+---
+
+📍 Nigeria  
+🔗 GitHub: **@bluezo-tech**
